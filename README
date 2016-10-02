@@ -1,0 +1,7 @@
+# To Run Server
+- `javac server/*.java`
+- `java -classpath . server/ChatServer`
+
+# To run Client
+- `javac client/*.java`
+- `java -classpath . client/ChatClient`
